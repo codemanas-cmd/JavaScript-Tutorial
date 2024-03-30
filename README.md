@@ -1,2 +1,4 @@
 # JavaScript-Tutorial
-Personal Code and Notes of Javascript
+
+Collection of my own Notes and Code files throughout my journey
+of learning JavaScript.
